@@ -89,7 +89,7 @@
 #   # For details regarding fonts from package dependencies,
 #   # see https://flutter.dev/custom-fonts/#from-packages
 
-name: namer_app
+name: test_drive
 description: A new Flutter project.
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
